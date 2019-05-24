@@ -79,13 +79,15 @@
                             ...commonStyle
                         }
                     };
-        
+                    var today = new Date();
+                    var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+
                     return (
                         <div style={divStyle}>
                             <LightningCounter />
                             <h2 style={textStyles.smallEmphasis}>LIGHTNING STRIKES</h2>
                             <h2 style={textStyles.emphasis}>WORLDWIDE</h2>
-                            <p style={textStyles.small}>(since you loaded this example)</p>
+                            <p style={textStyles.small}>(since {time})</p>
                         </div>
                     );
                 }
