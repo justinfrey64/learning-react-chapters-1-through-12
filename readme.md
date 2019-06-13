@@ -2,3 +2,6 @@
 
 <p>The first twelve chapters use babel to translate the react into javascript/css.</p>
 <p>The chapters afterward use npx create-react-app so each will be its own repository.</p>
+
+<h3>Links to Other Chapters</h3>
+[Chapter 13](https://github.com/justinfrey64/learning-react-chapter-13)
