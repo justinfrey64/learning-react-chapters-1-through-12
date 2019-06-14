@@ -4,5 +4,7 @@
 <p>The chapters afterward use npx create-react-app so each will be its own repository.</p>
 
 <h3>Links to Other Chapters</h3>
-<a href="https://github.com/justinfrey64/learning-react-chapter-13">Chapter 13</a>
-<a href="https://github.com/justinfrey64/learning-react-chapter-14">Chapter 14</a>
+<ul>
+  <li><a href="https://github.com/justinfrey64/learning-react-chapter-13">Chapter 13</a></li>
+  <li><a href="https://github.com/justinfrey64/learning-react-chapter-14">Chapter 14</a></li>
+</ul>
